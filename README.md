@@ -54,7 +54,7 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 | :-------------- | :------------- |
 |LLMops |[<img src="https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6">](https://graduation.udacity.com/confirm/e/46070c0e-ba6b-11ee-9297-7724e9fddf7d)|
 |Machine Learning |[<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white">](https://www.kaggle.com/learn/certification/krunal100/intro-to-machine-learning)|
-|AI For Everyone |[<img src="[https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white))">](https://www.coursera.org/account/accomplishments/verify/B383R3XAHGUT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)|
+|AI For Everyone |[<img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">](https://www.coursera.org/account/accomplishments/verify/B383R3XAHGUT?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)|
 
 
 ## Connect with me:
