@@ -68,6 +68,7 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/100kar_) 
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/krunalss/)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/100_kar_)
+[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>](krunalss@outlook.com)
 </p>
 
 | <a href="https://github.com/krunalss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krunalss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="krunal's github stats" /></a> | <a href="https://github.com/krunalss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunalss&layout=compact&theme=buefy&hide_border=true" /></a> |
