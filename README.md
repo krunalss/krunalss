@@ -2,12 +2,7 @@
 
 I’m a MLOps engineer specializing in building exceptional end-to-end pipelines that transform raw data into insightful forecasts, all while ensuring models are robust, scalable, and seamlessly integrated with cloud AI platforms.
 
-**My Research Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+
 
  **I am open to**:
 - fulltime Machine Learning Engieer Role,
@@ -28,6 +23,13 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
+
+#### ML/DL
+![comet](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white)
+| Purpose          | Tool/Technology |
+| :--------------: | :-------------: |
+| Left content    | Center content  |
+
 
 #### Database
 
@@ -58,7 +60,7 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/100_kar_)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/krunalss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=krunalss&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="krunal's github stats" /></a> | <a href="https://github.com/krunalss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunalss&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!--
