@@ -48,7 +48,7 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 
-## Certifications:
+## 🎓Certifications👨‍🎓:
 
 |Course  | Platform |
 | :-------------- | :------------- |
