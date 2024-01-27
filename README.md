@@ -26,9 +26,10 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 
 #### ML/DL
 ![comet](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white)
-| Purpose          | Tool/Technology |
-| :--------------: | :-------------: |
+| Purpose         | Tool/Technology |
+| :-------------- | :------------- |
 | Left content    | Center content  |
+|Feture Store |![comet](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white)![comet](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white) |
 
 
 #### Database
