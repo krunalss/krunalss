@@ -25,7 +25,7 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 |Version controling|![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)|
 |CI/CD |![github-actions](	https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
 |ML Platform |![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![comet](https://custom-icon-badges.demolab.com/badge/comet%20ml-262c3e?style=for-the-badge&logo=logo_comet_ml&logoColor=white) ![WeightsAndBiases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white)|
-|Feature store|<img src="https://uploads-ssl.webflow.com/5f6353590bb01cacbcecfbac/6202a13e7cafec5553703f6b_logo.svg" width="30%" >|
+|Feature store/model registry|<img src="https://uploads-ssl.webflow.com/5f6353590bb01cacbcecfbac/6202a13e7cafec5553703f6b_logo.svg" width="30%" >|
 |Orchestration|![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)|
 |Containerization|![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)|
 |Container Orchestration|![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)|
