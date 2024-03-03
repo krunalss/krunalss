@@ -32,6 +32,9 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 |Model Deployment|![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)|
 |Monitoring|![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)|
 
+### My Projects
+- [Sensor Quality Classifier](https://github.com/krunalss/SensorQualityClassifier)
+- [SysForecast: What-If Analysis Tool for IT Enterprises](https://github.com/krunalss/data_it_enterprises)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
