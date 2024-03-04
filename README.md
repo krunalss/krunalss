@@ -33,8 +33,8 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 |Monitoring|![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)|
 
 ### My Projects
-- [Sensor Quality Classifier](https://github.com/krunalss/SensorQualityClassifier)
-- [SysForecast: What-If Analysis Tool for IT Enterprises](https://github.com/krunalss/data_it_enterprises)
+- [Sensor Quality Classifier](https://github.com/krunalss/SensorQualityClassifier) [UI](https://dataitenterprises-whatif.streamlit.app/)
+- [SysForecast: What-If Analysis Tool for IT Enterprises](https://github.com/krunalss/data_it_enterprises) [UI](https://sensorqualityclassifier.streamlit.app/)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
