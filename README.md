@@ -33,8 +33,11 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 |Monitoring|![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)|
 
 ### My Projects
-- REPO [SysForecast: What-If Analysis Tool for IT Enterprises](https://github.com/krunalss/data_it_enterprises) and UI  [LINK](https://dataitenterprises-whatif.streamlit.app/)
-- REPO [Sensor Quality Classifier](https://github.com/krunalss/SensorQualityClassifier) and UI [LINK](https://sensorqualityclassifier.streamlit.app/)
+| Title         | REPO LINK | LIVE APP LINK |
+| :-------------- | :------------- | :------------- |
+|Gemini Geo Land Descripter| [GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
+|SysForecast: What-If Analysis Tool for IT Enterprises| [GITHUB](https://github.com/krunalss/data_it_enterprises)|[Streamlit app](https://dataitenterprises-whatif.streamlit.app/)
+|Sensor Quality Classifier| [GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://sensorqualityclassifier.streamlit.app/)
 
 
 #### Languages:
