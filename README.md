@@ -35,10 +35,10 @@ I’m a MLOps engineer specializing in building exceptional end-to-end pipelines
 ### My Projects
 | Title         |Models & Tech| REPO LINK | LIVE APP LINK |
 | :-------------- | :------------- | :------------- | :------------- |
-|Gemini Geo Land Descripter (Satelite image- land calssifier)| Google Gemini pro vison model |[GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
+|Gemini Geo Land Descripter (Satelite image- land classifier)| Google Gemini pro vison model |[GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
 |SysForecast: What-If Analysis Tool for IT Enterprises| Xgboost Regressor, ML flow|[GITHUB](https://github.com/krunalss/data_it_enterprises)|[Streamlit app](https://dataitenterprises-whatif.streamlit.app/)
-|Wafer Sensor Quality Classifier (Slice of semiconducto)| Xgboost Classifier, Hopsworks |[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://sensorqualityclassifier.streamlit.app/)
-|Movie Review Sentiment Analysis| Tensorflow, simple RNN|[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://movie-review-sentiment-analysis-rnn.streamlit.app/)
+|Wafer Sensor Quality Classifier (Slice of semiconductor)| Xgboost Classifier, Hopsworks |[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://sensorqualityclassifier.streamlit.app/)
+|Movie Review Sentiment Analysis| NLP,Tensorflow, simple RNN|[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://movie-review-sentiment-analysis-rnn.streamlit.app/)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
