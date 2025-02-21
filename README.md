@@ -2,7 +2,7 @@
 
 I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conversational AI systems, and Generative AI solutions. My expertise lies in LLMs, RAG-based AI applications, fine-tuning models, and deploying scalable AI solutions with cloud-native architectures. I thrive at transforming raw data into actionable intelligence while ensuring seamless MLOps integration and automation.
 
-[📄 View My Resume](https://raw.githubusercontent.com/krunalss/krunalss/main/Krunal_Shambharkar__ML_en.pdf)
+<a href="https://raw.githubusercontent.com/krunalss/krunalss/main/Krunal_Shambharkar__ML_en.pdf" target="_blank">📄 View My Resume</a>
 
 **I am open to**:
 -  GenAI Engineer | AI/ML Engineer | Conversational AI Engineer | NLP Engineer
