@@ -13,6 +13,15 @@ I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conv
 -  Amazon SageMaker & AWS Bedrock
 -  AI for Public Policy & Sustainability
 
+### My Projects/Expericnes
+| Title         |Models & Tech| REPO LINK | LIVE APP LINK |
+| :-------------- | :------------- | :------------- | :------------- |
+|Medical_bot| Open AI,Langchain, RAG |[GITHUB](https://github.com/krunalss/rag_medical_bot)|
+|Gemini Geo Land Descripter (Satelite image- land classifier)| Google Gemini pro vison model |[GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
+|SysForecast: What-If Analysis Tool for IT Enterprises| Xgboost Regressor, ML flow|[GITHUB](https://github.com/krunalss/data_it_enterprises)|[Streamlit app](https://dataitenterprises-whatif.streamlit.app/)
+|Wafer Sensor Quality Classifier (Slice of semiconductor)| Xgboost Classifier, Hopsworks |[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://sensorqualityclassifier.streamlit.app/)
+|Movie Review Sentiment Analysis| NLP,Tensorflow, simple RNN|[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://movie-review-sentiment-analysis-rnn.streamlit.app/)
+
 ## Skills:
 
 #### MY MLOPS Toolkit 
@@ -30,15 +39,6 @@ I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conv
 |Container Orchestration|![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)|
 |Model Deployment|![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)|
 |Monitoring|![prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)|
-
-### My Projects
-| Title         |Models & Tech| REPO LINK | LIVE APP LINK |
-| :-------------- | :------------- | :------------- | :------------- |
-|Medical_bot| Open AI,Langchain, RAG |[GITHUB](https://github.com/krunalss/rag_medical_bot)|
-|Gemini Geo Land Descripter (Satelite image- land classifier)| Google Gemini pro vison model |[GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
-|SysForecast: What-If Analysis Tool for IT Enterprises| Xgboost Regressor, ML flow|[GITHUB](https://github.com/krunalss/data_it_enterprises)|[Streamlit app](https://dataitenterprises-whatif.streamlit.app/)
-|Wafer Sensor Quality Classifier (Slice of semiconductor)| Xgboost Classifier, Hopsworks |[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://sensorqualityclassifier.streamlit.app/)
-|Movie Review Sentiment Analysis| NLP,Tensorflow, simple RNN|[GITHUB](https://github.com/krunalss/SensorQualityClassifier)| [Streamlit app](https://movie-review-sentiment-analysis-rnn.streamlit.app/)
 
 #### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
