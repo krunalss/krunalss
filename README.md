@@ -1,18 +1,17 @@
 ### Hi there, I'm [Krunal Shambharkar](https://krunalss.github.io/) 👋
 
-I’m a MLOps engineer specializing in building exceptional end-to-end pipelines that transform raw data into insightful forecasts, all while ensuring models are robust, scalable, and seamlessly integrated with cloud AI platforms.
+I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conversational AI systems, and Generative AI solutions. My expertise lies in LLMs, RAG-based AI applications, fine-tuning models, and deploying scalable AI solutions with cloud-native architectures. I thrive at transforming raw data into actionable intelligence while ensuring seamless MLOps integration and automation.
 
 **I am open to**:
-- fulltime Machine Learning Engieer Role,
-- MLOps Engineer Role,
-- any collaboration work,
-- machine learning projects(development or research),
-- available to contribute in papers for Machine Learning journals or conferences.
+-  GenAI Engineer | AI/ML Engineer | Conversational AI Engineer | NLP Engineer
+-  Collaborations on GenAI/LLM development & research
+-  Contributing to AI/ML papers in journals or conferences
+-  AI-driven public policy and sustainability initiatives
 
 **I’m currently learning and Exploring:**
-- LLM
-- LLMOps
-- Amazon SageMaker, Bedrock
+-  LLMs & LLMOps (LangChain, OpenAI, Hugging Face)
+-  Amazon SageMaker & AWS Bedrock
+-  AI for Public Policy & Sustainability
 
 ## Skills:
 
