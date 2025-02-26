@@ -18,7 +18,7 @@ I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conv
 ### My Projects/Expericnes
 | Title         |Models & Tech| REPO LINK | LIVE APP LINK |
 | :-------------- | :------------- | :------------- | :------------- |
-| **AI-Powered Carbon Footprint Optimizer** (Personalized carbon footprint calculator with recommendations for optimization.)| LLama-8b, Gorq API, Langchain, Streamlit|[GITHUB](https://github.com/krunalss/carbonAI)|
+| **AI-Powered Carbon Footprint Optimizer** (Personalized carbon footprint calculator with recommendations for optimization.)| LLama-8b, Gorq API, Langchain, FAST API|[GITHUB](https://github.com/krunalss/carbonAI)|[Live APP](https://huggingface.co/spaces/krunalss/carbonAI)
 | **PolicySense: AI-Powered FAQ & Bias Detector** (Generates FAQs from public policy documents and checks for bias to enhance accessibility for common people.)| LLama-8b, Gorq API, Langchain, Streamlit|[GITHUB](https://github.com/krunalss/public_pol)|
 |**Gemini Geo Land Descripter** (Satelite image- land classifier)| Google Gemini pro vison model |[GITHUB](https://github.com/krunalss/GeoAI_LandClassifier)|[Streamlit app](https://geo-ai-land-classifier.streamlit.app/)
 |**Medical_bot**| Open AI,Langchain, RAG |[GITHUB](https://github.com/krunalss/rag_medical_bot)|
