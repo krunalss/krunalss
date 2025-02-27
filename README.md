@@ -15,7 +15,7 @@ I’m a AI ML Engineer specializing in building end-to-end AI/ML pipelines, Conv
 -  Amazon SageMaker & AWS Bedrock
 -  AI for Public Policy & Sustainability
 
-### My Projects/Expericnes
+### My Projects/Experience
 | Title         |Models & Tech| REPO LINK | LIVE APP LINK |
 | :-------------- | :------------- | :------------- | :------------- |
 | **AI-Powered Carbon Footprint Optimizer** (Personalized carbon footprint calculator with recommendations for optimization.)| LLama-8b, Gorq API, Langchain, FAST API|[GITHUB](https://github.com/krunalss/carbonAI)|[Live APP](https://huggingface.co/spaces/krunalss/carbonAI)
